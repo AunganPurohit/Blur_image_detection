@@ -1,4 +1,4 @@
-# Blur_image_detection-
+# Blur_image_detection
 This code is used to detect the blur images using Laplacian Detector. 
 
 #Laplacian Operator
